@@ -19,7 +19,8 @@ conda activate lotus2
 ### Example
 
 To test the installation, run an example using test files:
-./lotus2 -i Example/ -m Example/miSeqMap.sm.txt -o myTestRun
+
+### ./lotus2 -i Example/ -m Example/miSeqMap.sm.txt -o myTestRun
 
 -i Example/:	-i stands for input. This is the folder where the raw sequencing data (FASTQ files) is located.
 
